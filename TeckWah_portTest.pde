@@ -12,7 +12,7 @@ import processing.serial.*;
 
 //USER DEFINED SETTINGS
 final int NUM_ARDUINOS = 11; 
-OS this_OS = OS.MACOSX; //see other tab for enum def
+OS this_OS = OS.WINDOWS; //see other tab for enum def
 boolean DEBUG = true; //to see print statements in the Processing IDE console
 /*!!!IMPORTANT - define the comports according to the order in the settings.txt file in the other tab*/
 
